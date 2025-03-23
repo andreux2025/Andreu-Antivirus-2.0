@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35716.79 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Andreu Antivirus 1.0", "Andreu Antivirus 1.0\Andreu Antivirus 1.0.vcxproj", "{C58331D8-0B7E-44D6-A5B4-7FE3A37ECB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58331D8-0B7E-44D6-A5B4-7FE3A37ECB76}.Release|x64.ActiveCfg = Release|x64
+		{C58331D8-0B7E-44D6-A5B4-7FE3A37ECB76}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7588D6F-2946-4D31-A394-7A69104A271A}
+	EndGlobalSection
+EndGlobal
